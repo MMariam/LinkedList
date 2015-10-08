@@ -2,7 +2,7 @@
  *  List.h
  *  Linked_list
  *
- *  Created by Mariam Mkhitaryan on 3/20/14.
+ *  Created by Mary H Abgarian on 3/20/14.
  *  Copyright 2014 Pasadena City College. All rights reserved.
  *
  */
