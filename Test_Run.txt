@@ -1,0 +1,163 @@
+Program exited with status value:0.
+[Session started at 2014-03-19 03:16:40 -0700.]
+GNU gdb 6.3.50-20050815 (Apple version gdb-1515) (Sat Jan 15 08:33:48 UTC 2011)
+Copyright 2004 Free Software Foundation, Inc.
+GDB is free software, covered by the GNU General Public License, and you are
+welcome to change it and/or distribute copies of it under certain conditions.
+Type "show copying" to see the conditions.
+There is absolutely no warranty for GDB.  Type "show warranty" for details.
+This GDB was configured as "x86_64-apple-darwin".tty /dev/ttys002
+Loading program into debugger…
+Program loaded.
+run
+[Switching to process 3906]
+
+0 100 102 20 24 48 74 
+0 100 102 24 48 74 Running…
+
+Debugger stopped.
+Program exited with status value:0.
+[Session started at 2014-03-19 03:16:48 -0700.]
+GNU gdb 6.3.50-20050815 (Apple version gdb-1515) (Sat Jan 15 08:33:48 UTC 2011)
+Copyright 2004 Free Software Foundation, Inc.
+GDB is free software, covered by the GNU General Public License, and you are
+welcome to change it and/or distribute copies of it under certain conditions.
+Type "show copying" to see the conditions.
+There is absolutely no warranty for GDB.  Type "show warranty" for details.
+This GDB was configured as "x86_64-apple-darwin".tty /dev/ttys001
+Loading program into debugger…
+Program loaded.
+run
+[Switching to process 3917]
+Running…
+
+0 29 30 20 17 96 91 106 24 19 
+0 29 30 17 96 91 106 24 19 
+Debugger stopped.
+Program exited with status value:0.
+[Session started at 2014-03-19 03:16:49 -0700.]
+GNU gdb 6.3.50-20050815 (Apple version gdb-1515) (Sat Jan 15 08:33:48 UTC 2011)
+Copyright 2004 Free Software Foundation, Inc.
+GDB is free software, covered by the GNU General Public License, and you are
+welcome to change it and/or distribute copies of it under certain conditions.
+Type "show copying" to see the conditions.
+There is absolutely no warranty for GDB.  Type "show warranty" for details.
+This GDB was configured as "x86_64-apple-darwin".tty /dev/ttys002
+Loading program into debugger…
+Program loaded.
+run
+[Switching to process 3927]
+
+0 14 100 20 20 53 50 40 17 
+0 14 100 20 53 50 40 17 Running…
+
+Debugger stopped.
+Program exited with status value:0.
+[Session started at 2014-03-19 03:16:50 -0700.]
+GNU gdb 6.3.50-20050815 (Apple version gdb-1515) (Sat Jan 15 08:33:48 UTC 2011)
+Copyright 2004 Free Software Foundation, Inc.
+GDB is free software, covered by the GNU General Public License, and you are
+welcome to change it and/or distribute copies of it under certain conditions.
+Type "show copying" to see the conditions.
+There is absolutely no warranty for GDB.  Type "show warranty" for details.
+This GDB was configured as "x86_64-apple-darwin".tty /dev/ttys003
+Loading program into debugger…
+Program loaded.
+run
+[Switching to process 3937]
+
+0 63 44 20 56 65 82 31 22 51 66 
+0 63 44 56 65 82 31 22 51 66 Running…
+
+Debugger stopped.
+Program exited with status value:0.
+[Session started at 2014-03-19 03:16:51 -0700.]
+GNU gdb 6.3.50-20050815 (Apple version gdb-1515) (Sat Jan 15 08:33:48 UTC 2011)
+Copyright 2004 Free Software Foundation, Inc.
+GDB is free software, covered by the GNU General Public License, and you are
+welcome to change it and/or distribute copies of it under certain conditions.
+Type "show copying" to see the conditions.
+There is absolutely no warranty for GDB.  Type "show warranty" for details.
+This GDB was configured as "x86_64-apple-darwin".tty /dev/ttys004
+Loading program into debugger…
+Program loaded.
+run
+[Switching to process 3947]
+
+0 18 85 20 77 92 47 98 83 44 62 47 9 15 
+0 18 85 77 92 47 98 83 44 62 47 9 15 Running…
+
+Debugger stopped.
+Program exited with status value:0.
+[Session started at 2014-03-19 03:16:52 -0700.]
+GNU gdb 6.3.50-20050815 (Apple version gdb-1515) (Sat Jan 15 08:33:48 UTC 2011)
+Copyright 2004 Free Software Foundation, Inc.
+GDB is free software, covered by the GNU General Public License, and you are
+welcome to change it and/or distribute copies of it under certain conditions.
+Type "show copying" to see the conditions.
+There is absolutely no warranty for GDB.  Type "show warranty" for details.
+This GDB was configured as "x86_64-apple-darwin".tty /dev/ttys001
+Loading program into debugger…
+Program loaded.
+run
+[Switching to process 3957]
+Running…
+
+0 21 103 20 40 48 106 93 19 20 64 
+0 21 103 40 48 106 93 19 20 64 
+Debugger stopped.
+Program exited with status value:0.
+[Session started at 2014-03-19 03:16:54 -0700.]
+GNU gdb 6.3.50-20050815 (Apple version gdb-1515) (Sat Jan 15 08:33:48 UTC 2011)
+Copyright 2004 Free Software Foundation, Inc.
+GDB is free software, covered by the GNU General Public License, and you are
+welcome to change it and/or distribute copies of it under certain conditions.
+Type "show copying" to see the conditions.
+There is absolutely no warranty for GDB.  Type "show warranty" for details.
+This GDB was configured as "x86_64-apple-darwin".tty /dev/ttys002
+Loading program into debugger…
+Program loaded.
+run
+[Switching to process 3967]
+Running…
+
+0 24 91 20 78 66 
+0 24 91 78 66 
+Debugger stopped.
+Program exited with status value:0.
+[Session started at 2014-03-19 03:16:55 -0700.]
+GNU gdb 6.3.50-20050815 (Apple version gdb-1515) (Sat Jan 15 08:33:48 UTC 2011)
+Copyright 2004 Free Software Foundation, Inc.
+GDB is free software, covered by the GNU General Public License, and you are
+welcome to change it and/or distribute copies of it under certain conditions.
+Type "show copying" to see the conditions.
+There is absolutely no warranty for GDB.  Type "show warranty" for details.
+This GDB was configured as "x86_64-apple-darwin".tty /dev/ttys003
+Loading program into debugger…
+Program loaded.
+run
+[Switching to process 3977]
+Running…
+
+0 31 30 20 102 63 89 15 
+0 31 30 102 63 89 15 
+Debugger stopped.
+Program exited with status value:0.
+[Session started at 2014-03-19 03:17:12 -0700.]
+GNU gdb 6.3.50-20050815 (Apple version gdb-1515) (Sat Jan 15 08:33:48 UTC 2011)
+Copyright 2004 Free Software Foundation, Inc.
+GDB is free software, covered by the GNU General Public License, and you are
+welcome to change it and/or distribute copies of it under certain conditions.
+Type "show copying" to see the conditions.
+There is absolutely no warranty for GDB.  Type "show warranty" for details.
+This GDB was configured as "x86_64-apple-darwin".tty /dev/ttys001
+Loading program into debugger…
+Program loaded.
+run
+[Switching to process 3987]
+
+0 13 78 20 64 99 99 54 
+0 13 78 64 99 99 54 Running…
+
+Debugger stopped.
+Program exited with status value:0.
